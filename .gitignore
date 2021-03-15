@@ -1,0 +1,8 @@
+fastcgi_params
+koi-utf
+koi-win
+win-utf
+mime.types
+modules
+scgi_params
+uwsgi_params
