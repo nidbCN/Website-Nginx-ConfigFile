@@ -1,8 +1,10 @@
+fastcgi.conf
 fastcgi_params
 koi-utf
 koi-win
-win-utf
 mime.types
-modules
+proxy_params
 scgi_params
+snippets
 uwsgi_params
+win-utf
